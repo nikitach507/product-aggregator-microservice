@@ -11,7 +11,7 @@ To run the microservice, follow these steps:
 
 ### Installation
 1. Clone the repository to your local machine: <br>
-git clone <repository_url>
+git clone https://github.com/nikitach507/product-aggregator-microservice.git
 2. Create virtual env with Python 3.10 <br>
 python -m venv venv
 3. Install the Python dependencies: <br>
